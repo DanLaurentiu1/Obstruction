@@ -11,7 +11,7 @@
 ## Features
 This project is implemented in Python, using OOP and layered architecture
 
-You can switch between: Graphical User Interface in PySimpleGUI and Text User Interface in ```settings.txt```
+You can switch between: Graphical User Interface in PySimpleGUI and Text User Interface in ```UserInterface/settings.txt```
 
 Unit-test for file operations, player and computer moves and board rendering
 

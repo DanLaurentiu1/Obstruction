@@ -1,0 +1,3 @@
+Size of grid:
+Do you want to play first? Yes
+Do you want to use a GUI? Yes
